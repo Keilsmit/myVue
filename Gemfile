@@ -23,7 +23,7 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.6'
 
 gem 'bootstrap_form'
-
+gem 'pry-rails'
 gem 'bcrypt'
 gem 'rails_12factor', group: :production
 
