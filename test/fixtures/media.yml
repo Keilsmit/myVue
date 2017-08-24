@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source: MyString
+  type: 
+  name: MyString
+  description: MyString
+  message: MyString
+  sender_rating: MyString
+  viewer_rating: MyString
+  list: one
+
+two:
+  source: MyString
+  type: 
+  name: MyString
+  description: MyString
+  message: MyString
+  sender_rating: MyString
+  viewer_rating: MyString
+  list: two

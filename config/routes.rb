@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :media
+  resources :lists
   resources :users
   get 'user/index'
 
