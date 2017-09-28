@@ -3,8 +3,8 @@ class UsersController < ApplicationController
   before_action :set_user, only: [:show, :update, :destroy]
   #find all users
   def index
-    @user = User.all
-    render json: @user
+    @users = User.all
+    render json: @users
   end
 
   # create a new user object
